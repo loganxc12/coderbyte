@@ -1,0 +1,1 @@
+With the intention of improving my javascript/problem solving skills, I'm working through all the programming challenges on Coderbyte.com (as well as some other challenges I find around the web). I'm nearly finished with all the Easy and Medium challenges. Plan to tackle the Hard challenges soon. 
